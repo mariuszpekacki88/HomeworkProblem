@@ -1,0 +1,4 @@
+swapi\people\delete\DeletePeopleTest.class
+swapi\people\post\PostFilmTest.class
+swapi\base\BaseTest.class
+swapi\people\get\GetPeopleTest.class
